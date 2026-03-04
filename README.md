@@ -2,7 +2,7 @@
 
 I love tinkering. I'm currently building products leveraging voice AI models such as Deepgram, Elevenlabs & Cartesia.
 
-More on it soon...
+More on it soon ⏳
 
 <!--
 **harishmaddali/harishmaddali** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
