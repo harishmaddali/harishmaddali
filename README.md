@@ -11,4 +11,4 @@
 
 ## Current Projects:
 
-![llmdir](https://github.com/harishmaddali/llmdir) - CLI tool to get the latest info on all AI models
+**📁 [llmdir](https://github.com/harishmaddali/llmdir)** - CLI tool to get the latest info on all AI models
