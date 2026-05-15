@@ -8,6 +8,6 @@
 
 **[llmdir](https://github.com/harishmaddali/llmdir)** - CLI tool to get the latest info on all AI models.
 
-**[codedoro](https://github.com/harishmaddali/codedoro)** - A productivity timer for developers.
+**[cododoro](https://github.com/harishmaddali/cododoro)** - A productivity timer for developers.
 
 
