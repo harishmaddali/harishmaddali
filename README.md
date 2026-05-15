@@ -4,6 +4,8 @@
 
 ## Current Projects:
 
+**[HireTracy](https://github.com/harishmaddali/getyourtracy)** - Free up your time with Tracy handling your inbound calls.
+
 **[codeapp](https://github.com/harishmaddali/codeapp)** - A code application project.
 
 **[cododoro](https://github.com/harishmaddali/cododoro)** - A productivity timer for developers.
