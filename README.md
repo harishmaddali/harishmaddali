@@ -4,10 +4,12 @@
 
 ## Current Projects:
 
-**[github-arena](https://github.com/harishmaddali/github-arena)** - Compete with other devs on github stats.
-
-**[llmdir](https://github.com/harishmaddali/llmdir)** - CLI tool to get the latest info on all AI models.
+**[codeapp](https://github.com/harishmaddali/codeapp)** - A code application project.
 
 **[cododoro](https://github.com/harishmaddali/cododoro)** - A productivity timer for developers.
+
+**[stylecn](https://github.com/harishmaddali/stylecn)** - Style configuration and management tool.
+
+**[llmdir](https://github.com/harishmaddali/llmdir)** - CLI tool to get the latest info on all AI models.
 
 
