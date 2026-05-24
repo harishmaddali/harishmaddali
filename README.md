@@ -4,11 +4,11 @@
 
 ## Current Projects:
 
+**[cododoro](https://github.com/harishmaddali/cododoro)** - A Github based productivity tracker for 100x devs.
+
 **[HireTracy](https://github.com/harishmaddali/getyourtracy)** - Free up your time with Tracy handling your inbound calls.
 
 **[codeapp](https://github.com/harishmaddali/codeapp)** - A code application project.
-
-**[cododoro](https://github.com/harishmaddali/cododoro)** - A productivity timer for developers.
 
 **[stylecn](https://github.com/harishmaddali/stylecn)** - Style configuration and management tool.
 
