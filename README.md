@@ -1,6 +1,6 @@
 # Hi, I'm Harish 👋
 
-> I'm an Engineer who loves tinkering with new tech. I love building AI driven products using AI.
+> I'm an Engineer from India who loves tinkering with tech. Currently in Founder Mode, tokenmaxxing my way to build unbound.
 
 ## Current Projects:
 
