@@ -1,6 +1,6 @@
 # Hi, I'm Harish 👋
 
-> I'm an Engineer from India who loves tinkering with tech. Currently in Founder Mode, tokenmaxxing my way to build unbound.
+> I'm an Engineer from India who loves tinkering with tech. Currently in Founder Mode, tokenmaxxing my way to build Uno.
 
 ## Current Projects:
 
