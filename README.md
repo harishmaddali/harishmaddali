@@ -1,17 +1,12 @@
-# Hi, I'm Harish 👋
+# Hey, I’m Harish 👋
 
-> I'm an Engineer from India who loves tinkering with tech. Currently in Founder Mode, tokenmaxxing my way to build Uno.
+I build software, build tools that build software, and occasionally wonder if I’ve taken this too far.
 
-## Current Projects:
+Currently building **[Uno](https://uno.engineering)**, a software factory where AI agents work in their own cloud computers, check their changes, and send pull requests. The goal: make shipping software feel less like coordinating a small space mission.
 
-**[cododoro](https://github.com/harishmaddali/cododoro)** - A Github based productivity tracker for 100x devs.
+When I’m not working on Uno, I like turning ideas into products:
 
-**[HireTracy](https://github.com/harishmaddali/getyourtracy)** - Free up your time with Tracy handling your inbound calls.
+- **[Startup Atlas](https://github.com/harishmaddali/startup-atlas)**: A map of startups and the people and organizations that support them. Built with Uno, because eating your own dog food is apparently part of the job.
+- **[Cododoro](https://github.com/harishmaddali/cododoro)**: A desktop app for keeping an eye on GitHub activity. Productivity with a side of tomatoes.
 
-**[codeapp](https://github.com/harishmaddali/codeapp)** - A code application project.
-
-**[stylecn](https://github.com/harishmaddali/stylecn)** - Style configuration and management tool.
-
-**[llmdir](https://github.com/harishmaddali/llmdir)** - CLI tool to get the latest info on all AI models.
-
-
+I’m usually thinking about AI agents, developer tools, and how to make building software more fun. Occasionally, I’m also tokenmaxxing.
